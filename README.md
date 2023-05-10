@@ -28,7 +28,7 @@
 
 <h3>Comment avoir les <a href="https://fr.wikipedia.org/wiki/APK_(format_de_fichier)">APK</a> ?</h3>
 
-<p> C'est très simple, il vous suffit de cliquer <a href="APK">ici</a> ou cliquer sur le dossier "APK" dans le fichiers. Ou vous pouvez voir les <a href="Liste">Listes</a>.</p>
+<p> C'est très simple, il vous suffit d'aller voir les <a href="https://github.com/LeBazarDeBryan/Nostalgiapk#liste">Listes</a>.</p>
 
 <h3>Comment installer les <a href="https://www.clubic.com/os-mobile/android/actualite-396543-qu-est-ce-qu-un-fichier-xapk.html">(X)</a><a href="https://fr.wikipedia.org/wiki/APK_(format_de_fichier)">APK</a> ?</h3>
 
