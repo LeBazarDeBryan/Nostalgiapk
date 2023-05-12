@@ -17,7 +17,7 @@
 
 |        | <a href="Liste/application.md">Application</a> | <a href="Liste/jeux.md">Jeux</a> |
 |--------|-------------|------|
-| Nombre |      1      |  12  |
+| Nombre |      3      |  12  |
 
 
 </div>
