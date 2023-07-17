@@ -23,8 +23,9 @@
 </details>
 </div>
 
-<details>
-<summary><h2>Questions</h2></summary>
+#
+
+<h2 align="center">Questions</h2>
 
 <details>
 <summary><h3>Comment avoir les <a href="https://fr.wikipedia.org/wiki/APK_(format_de_fichier)">APK</a> ?</h3></summary>
@@ -40,6 +41,8 @@
 <summary><h3>C'est quoi la <a href="https://nostalgiapk.vercel.app/Audio/Nostalgie.mp3">Nostalgie</a> ?</h3></summary>
   <p> La <a href="https://nostalgiapk.vercel.app/Audio/Nostalgie.mp3">nostalgie</a> et le mélange en nous de la douceur et de la douleur, des souvenirs. Mélant l'agréable, on se souvient des beaux instants et le désagréable, on est triste parfois désespérés que c'est moments soit passé. La <a href="https://nostalgiapk.vercel.app/Audio/Nostalgie.mp3">nostalgie</a> c'est aussi souffrir d'un ennui immense face à ce qu'on retrouve et qui n'est pas à la hauteur de nos attentes et que rien ne sera exactement comme avant. Sauf que rien n'est jamais comme avant. Tout ce que vous vivez n'est à vivre qu'une seule fois au moment où vous le vivez et si vous cherchez à revivre exactement la même chose, alors vous serez toujours déçu, la réalité est toujours un peu décevante. </p>
 </details>
+
+#
 
 <details>
 <summary><h2 align="center">TODO</h2></summary>
