@@ -29,7 +29,7 @@
 
 <details>
 <summary><h3>Comment avoir les <a href="https://fr.wikipedia.org/wiki/APK_(format_de_fichier)">APK</a> ?</h3></summary>
-  <p> C'est très simple, il vous suffit d'aller voir les <a href="https://github.com/LeBazarDeBryan/Nostalgiapk#liste">Listes</a>.</p>
+  <p> C'est très simple, il vous suffit d'aller voir la <a href="https://github.com/LeBazarDeBryan/Nostalgiapk#liste">Liste</a>.</p>
 </details>
 
 <details>
