@@ -2,6 +2,12 @@
   <img src="/Image/Logo.png" height="110" width="600" />
   <br></br>
   <a href="https://play.google.com/store/apps"><img src="/Image/Google%20Play%20Store.png" height="80" width="250" /></a>
+
+#
+
+<h1>Question</h1>
+<h3>Je peut pas télécharger les jeux.</h3>
+<p>Ouvrez le lien dans un nouvel onglet en faisant un clic droit ou en appuyant longtemps sur votre écran. Ou le fichier à été supprimé.</p>
 <br></br>
   
 |   | Nom | Lien | Scan Virus | Version | SDK | Testé |
