@@ -6,7 +6,7 @@
 #
 
 <h1>Question</h1>
-<h3>Je peut pas télécharger les jeux.</h3>
+<h3>Je peut pas télécharger les applications.</h3>
 <p>Ouvrez le lien dans un nouvel onglet en faisant un clic droit ou en appuyant longtemps sur votre écran. Ou le fichier à été supprimé.</p>
 <br></br>
   
