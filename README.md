@@ -8,7 +8,7 @@
 
 #
 
-<p align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLScLNo_a7h0tZoXHOcSOSDOeVMeSb-mryumQnlsi-VqRfzAthg/viewform"><img src="Image/Demande.png" height="150" width="450" /></a></p>
+<p align="center"><a href="https://www.clictune.com/jshr"><img src="Image/Demande.png" height="150" width="450" /></a></p>
 
 #
 
@@ -28,16 +28,16 @@
 <h2 align="center">Questions</h2>
 
 <details>
-<summary><h3>Comment avoir les <a href="https://fr.wikipedia.org/wiki/APK_(format_de_fichier)">APK</a> ?</h3></summary>
+<summary><h3>Comment avoir les <a href="https://www.clictune.com/jshs">APK</a> ?</h3></summary>
   <p> C'est très simple, il vous suffit d'aller voir la <a href="https://github.com/LeBazarDeBryan/Nostalgiapk#liste">Liste</a>.</p>
 </details>
 
 <details>
-<summary><h3>Comment installer les <a href="https://www.clubic.com/os-mobile/android/actualite-396543-qu-est-ce-qu-un-fichier-xapk.html">(X)</a><a href="https://fr.wikipedia.org/wiki/APK_(format_de_fichier)">APK</a> ?</h3></summary>
-  <p> Il faut que vous installez <a href="https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver">ZArchiver</a> après, configurer <a href="https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver">ZArchiver</a> est ensuite cliquez sur le fichier <a href="https://www.clubic.com/os-mobile/android/actualite-396543-qu-est-ce-qu-un-fichier-xapk.html">(X)</a><a href="https://fr.wikipedia.org/wiki/APK_(format_de_fichier)">APK</a> et cliquez sur "Installer". </p>
+<summary><h3>Comment installer les <a href="https://www.clictune.com/jsht">(X)</a><a href="https://www.clictune.com/jshs">APK</a> ?</h3></summary>
+  <p> Il faut que vous installez <a href="https://www.clictune.com/jsjb">ZArchiver</a> après, configurer <a href="https://www.clictune.com/jsjb">ZArchiver</a> est ensuite cliquez sur le fichier <a href="https://www.clictune.com/jsht">(X)</a><a href="https://www.clictune.com/jshs">APK</a> et cliquez sur "Installer". </p>
 </details>
 
 <details>
-<summary><h3>C'est quoi la <a href="https://lebazardebryan.github.io/Nostalgiapk/Audio/Nostalgie.mp3">Nostalgie</a> ?</h3></summary>
-  <p> La <a href="https://nostalgiapk.vercel.app/Audio/Nostalgie.mp3">nostalgie</a> et le mélange en nous de la douceur et de la douleur, des souvenirs. Mélant l'agréable, on se souvient des beaux instants et le désagréable, on est triste parfois désespérés que c'est moments soit passé. La <a href="https://nostalgiapk.vercel.app/Audio/Nostalgie.mp3">nostalgie</a> c'est aussi souffrir d'un ennui immense face à ce qu'on retrouve et qui n'est pas à la hauteur de nos attentes et que rien ne sera exactement comme avant. Sauf que rien n'est jamais comme avant. Tout ce que vous vivez n'est à vivre qu'une seule fois au moment où vous le vivez et si vous cherchez à revivre exactement la même chose, alors vous serez toujours déçu, la réalité est toujours un peu décevante. </p>
+<summary><h3>C'est quoi la <a href="https://www.clictune.com/jsjh">Nostalgie</a> ?</h3></summary>
+  <p> La <a href="https://www.clictune.com/jsjh">nostalgie</a> et le mélange en nous de la douceur et de la douleur, des souvenirs. Mélant l'agréable, on se souvient des beaux instants et le désagréable, on est triste parfois désespérés que c'est moments soit passé. La <a href="https://www.clictune.com/jsjh">nostalgie</a> c'est aussi souffrir d'un ennui immense face à ce qu'on retrouve et qui n'est pas à la hauteur de nos attentes et que rien ne sera exactement comme avant. Sauf que rien n'est jamais comme avant. Tout ce que vous vivez n'est à vivre qu'une seule fois au moment où vous le vivez et si vous cherchez à revivre exactement la même chose, alors vous serez toujours déçu, la réalité est toujours un peu décevante. </p>
 </details>
