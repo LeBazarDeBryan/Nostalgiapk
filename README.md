@@ -1,10 +1,10 @@
 <p align="center"><img src="Image/Logo.png" height="100" width="500" /></p>
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/LeBazarDeBryan/Nostalgiapk?style=plastic&label=%C3%89toile" />
-<img src="https://img.shields.io/github/forks/LeBazarDeBryan/Nostalgiapk?style=plastic&label=Fork" />
-<img src="https://img.shields.io/github/watchers/LeBazarDeBryan/Nostalgiapk?style=plastic&label=Watching" />
-<img src="https://img.shields.io/github/issues/LeBazarDeBryan/Nostalgiapk?style=plastic&label=Issues" /> </div>
+<a href="https://www.clictune.com/jy0q"><img src="https://img.shields.io/github/stars/LeBazarDeBryan/Nostalgiapk?style=plastic&label=%C3%89toile" /></a>
+<a href="https://www.clictune.com/jy0s"><img src="https://img.shields.io/github/forks/LeBazarDeBryan/Nostalgiapk?style=plastic&label=Fork" /></a>
+<a href="https://www.clictune.com/jy0t"><img src="https://img.shields.io/github/watchers/LeBazarDeBryan/Nostalgiapk?style=plastic&label=Watching" /></a>
+<a href="https://www.clictune.com/jy0u"><img src="https://img.shields.io/github/issues/LeBazarDeBryan/Nostalgiapk?style=plastic&label=Issues" /></a></div>
 
 #
 
@@ -16,7 +16,7 @@
 <summary><h2>Liste</h2></summary>
 <div align="center">
 
-|        | <a href="Liste/application.md">Application</a> | <a href="Liste/jeux.md">Jeux</a> |
+|        | <a href="https://www.clictune.com/jy0y">Application</a> | <a href="https://www.clictune.com/jy0z">Jeux</a> |
 |--------|-------------|------|
 | Nombre | 6           | 13   |
 
@@ -29,7 +29,7 @@
 
 <details>
 <summary><h3>Comment avoir les <a href="https://www.clictune.com/jshs">APK</a> ?</h3></summary>
-  <p> C'est très simple, il vous suffit d'aller voir la <a href="https://github.com/LeBazarDeBryan/Nostalgiapk#liste">Liste</a>.</p>
+  <p> C'est très simple, il vous suffit d'aller voir la <a href="https://www.clictune.com/jy0o">Liste</a>.</p>
 </details>
 
 <details>
