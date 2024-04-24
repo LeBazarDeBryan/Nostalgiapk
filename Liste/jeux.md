@@ -6,8 +6,8 @@
 #
 
 <h1>Question</h1>
-<h3>Je peut pas télécharger les jeux.</h3>
-<p>Ouvrez le lien dans un nouvel onglet en faisant un clic droit ou en appuyant longtemps sur votre écran. Ou le fichier à été supprimé.</p>
+<h3>Je ne peux pas télécharger les jeux.</h3>
+<p>Ouvrez le lien dans un nouvel onglet en faisant un clic droit ou en appuyant longtemps sur votre écran. Ou le fichier a été supprimé.</p>
   
 |   | Nom | Lien | Scan Virus | Version | SDK | Testé |
 |---|-----|------|------------|---------|-----|-------|
